@@ -1,19 +1,19 @@
 # To-Do-list 
-#overview
+##overview
 Make a list so you can sort the tasks by it and to remind you of tasks.
 
-#Usage
+##Usage
 addTask  = func addTask(NewTask : ToDoIt)
 removeTask = removeTask(index: Int)
 updateTask = UpdateTask(index: Int , newTask: ToDoIt)
 RedTask =  for Text in Tasks
 filter =   func filterByStatus(status: Taskstatus)
 
-#upcoming Featuers
+##upcoming Featuers
 
 Ability to have multiple To Do Lists
 
-#Bugs
+##Bugs
 I had a hard time using sort
 I encountered obstacles in using the filter
 
